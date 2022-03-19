@@ -1,0 +1,99 @@
+/*form css*/
+
+.s_form
+{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+}
+
+
+.s_form td
+{
+    padding: 20px;
+}
+
+
+/*label css*/
+
+.s_form label
+{
+    font-size: 20px;
+    color: brown;
+}
+
+
+/*input box css*/
+
+.s_form input
+{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: none;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    box-shadow: 5px 5px 5px 1px gray;
+    outline: none;
+}
+
+/*input box placeholder css*/
+
+.s_form input::placeholder
+{
+    text-align: center;
+    font-size: 18px;
+    color: gainsboro;
+}
+
+
+/*button css*/
+
+.btn
+{
+    background-color: darkgray;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+
+
+/*view data css*/
+
+.viewData
+{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.viewData table
+{
+    text-align: center;
+    margin: auto;
+}
+
+.viewData table th
+{
+    padding: 15px;
+    font-size: 18px;
+    color: burlywood;
+}
+
+.viewData table td
+{
+    padding: 5px;
+    font-size: 20px;
+    color: cadetblue;
+}
+
+.viewData table a
+{
+    text-decoration: none;
+}
+
+/*search css  */
+
+
